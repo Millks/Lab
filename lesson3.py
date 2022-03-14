@@ -84,7 +84,7 @@ win_width = 700
 win_height = 500
 display.set_caption("Лабиринт")
 window = display.set_mode((win_width, win_height))
-back = (119, 210, 223)#задаем цвет согласно цветовой схеме RGB 
+back = (220, 210, 223)#задаем цвет согласно цветовой схеме RGB 
 
 #создаем группу для стен
 barriers = sprite.Group()
